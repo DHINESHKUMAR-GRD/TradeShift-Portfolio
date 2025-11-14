@@ -1,1 +1,1 @@
-
+An end-to-end investment portfolio app featuring Spring Boot APIs, MySQL database, and a frontend client. Provides secure user login, portfolio creation, asset tracking, and order management. Designed with REST standards, strong authentication, and efficient data handling.
